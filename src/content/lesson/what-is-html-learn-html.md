@@ -170,7 +170,7 @@ Each tag has its own properties – you do not have to memorize them, you will a
 
 That’s why we have created a series of exercises that will better explain each of the important properties of the most used HTML elements.
 
-## Clap, Clap, Clap.  You are one step closer to learning HTML!
+## Clap, Clap, Clap.  You are one step closer to learning HTML!!!!
 ***
 We are so PROUD! 🙂
 
